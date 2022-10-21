@@ -1,0 +1,16 @@
+{
+"name": "macau889",
+"theme": "macau889",
+"version": "7.1.1",
+"description": "macau889 ทางเข้าหลักเว็บสล็อตเว็บตรง ระบบออโต้ รับเงินเครดิตฟรี",
+"keywords": [
+"macau889",
+"macau889 เครดิตฟรี",
+"macau889 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/macau889",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
